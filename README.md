@@ -47,7 +47,7 @@ Our Worskhop recordings are available on our [website](https://bcchr.ca/tog/tog-
 - [Multi-omic integration with SMITE](workshops/2021_09_28_multi_omics_SMITE)  
 
 ### Science Communication
- - [Graphic Design for Science Communication](https://docs.google.com/presentation/d/1NaDtC98qE_TLCtvb77BIVwafGxKeYRgh/edit?usp=sharing&ouid=107746419616348188318&rtpof=true&sd=true)
+ - [Graphic Design for Science Communication](https://docs.google.com/presentation/d/1Y3vRJWxK2fZ3zbxHlQS-EvryaUteoPb1/edit?usp=sharing&ouid=104628310579282317913&rtpof=true&sd=true)
 
 <br>  
 
